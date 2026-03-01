@@ -1,6 +1,9 @@
 PCB BOARD MODUL ESP32S3 DENGAN DAC PCM5201 DAN ADC PCM1808
+
 2 INPUT/2 OUTPUT BALANCED XLR
-DENGAN PENGUAT BUFFER 
+
+DENGAN PENGUAT BUFFER
+
 
 IC OPAMP NE5532
 ✔ Stereo balanced output
@@ -10,11 +13,14 @@ IC OPAMP NE5532
 ✔ Cocok untuk mixer / studio gear
 ✔ Stabil dengan kabel panjang
 
+
 DAC: PCM5102
 Driver: NE5532
 Output: Balanced XLR
 Level: +4 dBu (≈2.5 Vrms differential)
 Supply: ±15V
+
+
 
 🎯 TOPOLOGI FINAL (Per Channel)
 🔵 HOT (XLR Pin 2)
@@ -25,4 +31,10 @@ Pin 1 → Pin 2 (feedback unity)
 Pin 1 → 100Ω → XLR Pin 2
 XLR Pin 2 → 220pF → AGN
 Gain total ≈ +0.6
+<img width="500" height="400" alt="Screenshot_44" src="https://github.com/user-attachments/assets/3ba24f54-489a-4fee-99d1-9d06131b609d" />
+
+MODUL
+
+<img width="500" height="400" alt="3D_PCB2_2026-03-01" src="https://github.com/user-attachments/assets/efd1a3b3-5ff5-49ac-9372-824b1bde3f3e" />
+
 
